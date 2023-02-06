@@ -6,3 +6,4 @@ Ejemplo:
 http://localhost/divisas.php?type=billetes
 
 https://florencia353.000webhostapp.com/divisas.php?type=billetes
+https://florencia353.000webhostapp.com/divisas.php?type=divisas
